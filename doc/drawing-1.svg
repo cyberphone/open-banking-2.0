@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1500"
+   height="880.62994"
+   viewBox="0 0 396.8737 233.00001"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="drawing-1.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.70911897"
+     inkscape:cx="817.21125"
+     inkscape:cy="414.59898"
+     inkscape:window-width="1832"
+     inkscape:window-height="939"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#00e700;fill-opacity:1;stroke:#000000;stroke-width:0.43917;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1"
+       width="330.40576"
+       height="50.942661"
+       x="15.614374"
+       y="152.1902"
+       ry="4.7080412"
+       rx="5.2502027" />
+    <rect
+       style="fill:#f2e700;fill-opacity:1;stroke:#000000;stroke-width:0.308711;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2"
+       width="73.77462"
+       height="14.635833"
+       x="28.92189"
+       y="176.10228" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:0;fill:#00e700;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       x="18.282663"
+       y="178.72235"
+       id="text2">Payment Primitives</text>
+    <rect
+       style="fill:#f2e700;fill-opacity:1;stroke:#000000;stroke-width:0.308713;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4"
+       width="73.77462"
+       height="14.635828"
+       x="147.98413"
+       y="176.10228" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:0;fill:#00e700;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       x="18.282663"
+       y="178.72235"
+       id="text5">Account Information</text>
+    <rect
+       style="fill:#f2e700;fill-opacity:1;stroke:#000000;stroke-width:0.308713;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5"
+       width="73.77462"
+       height="14.635828"
+       x="256.28424"
+       y="176.07582" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:0;fill:#00e700;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       x="18.282663"
+       y="178.72235"
+       id="text6">SSO Provider</text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:0;fill:#00e700;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       x="18.282663"
+       y="178.72235"
+       id="text7"
+       transform="translate(116.946,-12.700002)">Privileged API (P-API)</text>
+  </g>
+</svg>

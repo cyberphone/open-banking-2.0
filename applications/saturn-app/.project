@@ -26,4 +26,26 @@
             </matcher>
         </filter>
     </filteredResources>
+    <linkedResources>
+        <link>
+            <name>common-ob2</name>
+            <type>2</type>
+            <locationURI>copy_PARENT/common/src</locationURI>
+        </link>
+        <link>
+            <name>common-saturn</name>
+            <type>2</type>
+            <locationURI>copy_SATURN/resources/common</locationURI>
+        </link>
+    </linkedResources>
+    <variableList>
+        <variable>
+            <name>copy_PARENT</name>
+            <value>${PROJECT_LOC}/../..</value>
+        </variable>
+        <variable>
+            <name>copy_SATURN</name>
+            <value>${PROJECT_LOC}/../../../saturn</value>
+        </variable>
+    </variableList>
 </projectDescription>

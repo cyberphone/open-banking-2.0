@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-    <name>core</name>
+    <name>common</name>
     <comment></comment>
     <projects>
     </projects>
@@ -26,17 +26,4 @@
             </matcher>
         </filter>
     </filteredResources>
-    <linkedResources>
-        <link>
-            <name>common</name>
-            <type>2</type>
-            <locationURI>copy_PARENT/common/src</locationURI>
-        </link>
-    </linkedResources>
-    <variableList>
-        <variable>
-            <name>copy_PARENT</name>
-            <value>${PROJECT_LOC}/..</value>
-        </variable>
-    </variableList>
 </projectDescription>
