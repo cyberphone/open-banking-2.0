@@ -11,7 +11,7 @@ The goal is also to *eventually* make banks' own services like online banking, u
 ## Is Open Banking 2.0 "Revolutionary"?
 
 Not all, loose coupling is firmly established since _decades_ back.
-More recently, Micro Services and messaging systems like Kafka,
+More recently, Cloud Services and messaging systems like Kafka,
 proved that networked interfaces nowadays represent a viable alternative to native mode APIs.
 
 The only "novelty" is standardizing a set of core methods and an associated security solution.
