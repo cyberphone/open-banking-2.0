@@ -4,8 +4,7 @@ Note: this is currently only a "placeholder" for a standards proposal along the 
 
 <a id="cborjs"></a><br>![OB2](https://cyberphone.github.io/open-banking-2.0/doc/ob2-overview.png?)
 
-This is essentially an Operating System, albeit a dedicated one.
-
+This is essentially an Operating System, albeit a dedicated one. Banking As An Operating System (BAAOS) seems like a suitable acronym 😆 
 The goal is also to *eventually* make banks' own services like online banking, use the same API.
 
 ## Is Open Banking 2.0 "Revolutionary"?
