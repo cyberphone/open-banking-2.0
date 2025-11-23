@@ -20,3 +20,8 @@ The only "novelty" is standardizing a set of core methods and an associated secu
 Unlike most current Open Banking API concepts, Open Banking 2.0 permits
 testing application-specific APIs using _public sandboxes_.
 No need to build specific test banks!
+
+## How about testing?
+
+Obviously, testing becomes much easier when the same test application can be
+used for every Open Banking 2.0 implementation.
