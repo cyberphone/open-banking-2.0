@@ -21,7 +21,7 @@ Unlike most current Open Banking API concepts, Open Banking 2.0 permits
 testing application-specific APIs using _public sandboxes_.
 No need to build specific test banks!
 
-## How about testing?
+## How about compliance testing?
 
-Obviously, testing becomes much easier when the same test application can be
+Obviously, testing API compliance becomes much easier when the same test application can be
 used for every Open Banking 2.0 implementation.
